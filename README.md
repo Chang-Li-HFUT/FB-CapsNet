@@ -2,7 +2,7 @@
 Code for paper: Patient-Specific Seizure Prediction from Electroencephalogram Signal via Multi-Channel Feedback Capsule Network
 
 ## About the paper
-* Title: [Patient-Specific Seizure Prediction from Electroencephalogram Signal via Multi-Channel Feedback Capsule Network]
+* Title: Patient-Specific Seizure Prediction from Electroencephalogram Signal via Multi-Channel Feedback Capsule Network
 * Authors: Chang Li, Yuchang Zhao, Rencheng Song, Xiang Liu, Ruobing Qian, Xun Chen
 * Institution: Hefei University of Technology
 * Published in: IEEE Transactions on Cognitive and Developmental Systems
