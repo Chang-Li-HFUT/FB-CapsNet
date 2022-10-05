@@ -14,7 +14,7 @@ and **labels**. The shape of **data** is (32, 1, 1024, 22). The shape of **label
 * The usage on Kaggle dataset is the same as above. The Kaggle dataset can be found [here]( https://www.kaggle.com/c/seizure-prediction/data).
 
 ## Requirements
-+ Pyhton3.7
++ Pyhton 3.7
 + pytorch (1.10.1 version)
 * If you have any questions, please contact yuchangzhao@mail.hfut.edu.cn
 
